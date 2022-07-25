@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kladebo
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning NX workspace (Angular)
-- 💞️ I’m looking for a job in the area of Amsterdam
 
 
 <!---
